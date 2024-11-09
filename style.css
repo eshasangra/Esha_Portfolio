@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.section__pic-container img {
+    border-radius: 15px; /* Adjust the px value for more or less rounding */
+}
+  
